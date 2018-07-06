@@ -1,2 +1,3 @@
 # 100-Days-of-ML
-A pledge to do 1 hr anything in Machine Learning
+
+Day1 -: Clustering-:  What is Clustering , use of clustering , types of clustering ,  Implemented basics of KMeans Clustering
