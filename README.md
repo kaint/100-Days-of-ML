@@ -13,13 +13,13 @@
 ## Day5 
     Learnt Convolution Neural Network , implementation of this with the help of TensorFlow 
     
-   [ Link1 for Source ]( https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2 )
+   [ Link1 for Source of study ]( https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2 )
     
-   [Link2 for Source]( https://www.analyticsvidhya.com/blog/2017/06/architecture-of-convolutional-neural-networks-simplified-demystified/)
+   [Link2 for Source of study]( https://www.analyticsvidhya.com/blog/2017/06/architecture-of-convolutional-neural-networks-simplified-demystified/)
    
-   [Link3 for Source]( http://cs231n.github.io/convolutional-networks/)
+   [Link3 for Source of study]( http://cs231n.github.io/convolutional-networks/)
    
-   [Last and most Imp](https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8 )
+   [Last and most Imp of study](https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8 )
     
  ## Day6
      Today i  applied all the  concepts of CNN  on MNIST dataset using TensorFlow 
