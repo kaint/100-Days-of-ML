@@ -33,7 +33,6 @@
 
 ## Day9 & 10 & 11 
     Few days ago i studied RNN .....which has some limitations on its Back Propagation which leads to decrease the accuracy of our model
-    so i started study of LSTM 
-    
+    so i started study of LSTM
     Using concepts learnt above,... i implmented a Text Generator Using LSTM and trained this on Philosophy of Friedrich nietzsche
-    
+    and see how to error is decresing you can see its code in ipynb files
