@@ -30,3 +30,10 @@
  ## Day8 
      KNN  -: I studied KNN and implemented it on Iris Plants data set to predict different type of Plants and tried on different distance                finding mehod                like  Euclidian and manhattan distance and set the tweak the different value of K neigbours and               at the end i was able to find              100% testing score    
 [ Link for source of study ](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/ )
+
+## Day9 & 10 & 11 
+    Few days ago i studied RNN .....which has some limitations on its Back Propagation which leads to decrease the accuracy of our model
+    so i started study of LSTM 
+    
+    Using concepts learnt above,... i implmented a Text Generator Using LSTM and trained this on Philosophy of Friedrich nietzsche
+    
