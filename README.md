@@ -36,3 +36,5 @@
     so i started study of LSTM
     Using concepts learnt above,... i implmented a Text Generator Using LSTM and trained this on Philosophy of Friedrich nietzsche
     and see how to error is decresing you can see its code in ipynb files
+    
+   [Link for Source Code](https://github.com/kaint/100-Days-of-ML/tree/master/Day10%20%26%2011)
